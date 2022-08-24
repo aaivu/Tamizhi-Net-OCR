@@ -1,0 +1,6 @@
+/data/finetuned_model/*.checkpoint
+/data/langdata/
+/data/model/
+/data/output/
+/data/tessdata/
+/data/tesseract/
