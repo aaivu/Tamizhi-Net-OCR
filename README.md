@@ -145,6 +145,20 @@ The architecture of PCR is shown below. As the first step, we detect the file ty
 | English | 100 | 181.04K | 2.33M | 372.03K | 20.8MB|
 
 
+### Cite this work
+
+```
+@INPROCEEDINGS{9961304, 
+    author={Vasantharajan, Charangan and Tharmalingam, Laksika and Thayasivam, Uthayasanker},
+    booktitle={2022 International Conference on Asian Language Processing (IALP)}, 
+    title={Adapting the Tesseract Open-Source OCR Engine for Tamil and Sinhala Legacy Fonts and Creating a Parallel Corpus for Tamil-Sinhala-English}, 
+    year={2022},
+    volume={}, 
+    number={}, 
+    pages={143-149}, 
+    doi={10.1109/IALP57159.2022.9961304}
+}
+```
 
 ### License
 
